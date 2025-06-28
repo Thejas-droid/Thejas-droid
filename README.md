@@ -20,8 +20,8 @@ I'm a **final-year B.Tech Computer Science student** at Dr. APJ Abdul Kalam Tech
 
 - 🎓 **B.Tech Computer Science** (2022-2026) | **Diploma in Computer Hardware Engineering** (2019-2022)
 - 🌱 Currently exploring **advanced AI integrations** and **cloud-native development**
-- 💡 Interested in opportunities at **Microsoft, Amazon, Google, Xylem**
-- 🎯 Goal: Contributing to **scalable systems** and **innovative AI solutions**
+- 💡 Interested in job opportunities
+- 🎯 Goal: Contributing to **scalable systems** and **innovative solutions**
 
 ---
 
