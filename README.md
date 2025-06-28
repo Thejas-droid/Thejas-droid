@@ -6,9 +6,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejasss567@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thejas-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejass274)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejass274@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://[github.com/thejas-s](https://github.com/Thejas-droid))
 
 </div>
 
@@ -69,8 +69,6 @@ I'm a **final-year B.Tech Computer Science student** at Dr. APJ Abdul Kalam Tech
 
 | Certification | Provider | Badge |
 |---------------|----------|-------|
-| **Azure AI Fundamentals** | Microsoft | 🥇 |
-| **AWS Cloud Practitioner** | Amazon Web Services | ☁️ |
 | **Java (Basic)** | HackerRank | ☕ |
 | **React (Basic)** | HackerRank | ⚛️ |
 | **Ethical Hacking & Cybersecurity** | Udemy | 🔒 |
@@ -101,12 +99,7 @@ I'm a **final-year B.Tech Computer Science student** at Dr. APJ Abdul Kalam Tech
 - Microcontroller-based sensor integration
 - Technologies: `Arduino` `IoT Sensors` `MQTT`
 
-### 📹 Smart Surveillance with Tapo C500
-**AI-Enhanced Security System**
-- Real-time cloud video storage with motion/sound triggers
-- Voice command functionality with background noise filtering
-- AI keyword detection and speaker recognition
-- Technologies: `WebRTC` `RTSP` `OpenAI API` `Cloud Storage`
+
 
 ---
 
@@ -126,9 +119,9 @@ I'm a **final-year B.Tech Computer Science student** at Dr. APJ Abdul Kalam Tech
 ## 🎯 Current Focus
 
 - 🔬 **Experimenting with**: Advanced AI integrations using GPT models
-- 🏗️ **Building**: Scalable IoT automation systems
+- 🏗️ **Building**: Scalable Full stack applications
 - 🌍 **Contributing to**: Open-source projects
-- 📚 **Learning**: Distributed computing and cloud-native architectures
+- 📚 **Learning**: AI,ML and cloud-native architectures
 - 🎨 **Improving**: UI/UX design in full-stack applications
 
 ---
