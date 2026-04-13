@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thejas S
 
-💻 Software Engineer | Frontend & Full Stack Developer  
+💻 Software Engineer
 📍 Kerala, India  
 📧 thejass274@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/thejass274)
